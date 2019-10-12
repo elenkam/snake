@@ -62,8 +62,7 @@ for i in range(101):
 for i in range(len(zoznam1)):
     print(zoznam1[i])
 
-
-
+print("test")
 
 
 
